@@ -27,13 +27,13 @@
   --champagne-pink: hsl(0, 0%, 3%);
   --spanish-gray: hsl(0, 0%, 0%);
   --sonic-silver: hsl(0, 1%, 44%);
-  --deep-saffron: hsl(32, 100%, 59%); 
-  --dark-orange: hsl(28, 100%, 58%);
+  --deep-saffron: hsl(0, 80%, 70%); 
+  --dark-orange: hsl(9, 81%, 68%);
   --desert-sand: hsl(23, 49%, 82%);
   --isabelline: hsl(0, 69%, 87%);
   --gainsboro: hsl(0, 69%, 87%);
-  --tangerine: hsl(31, 84%, 50%);
-  --cinnabar: hsl(3, 90%, 55%);
+  --tangerine: hsl(0, 0%, 100%);
+  --cinnabar: hsl(3, 80%, 70%);
   --black_95: hsla(0, 59%, 87%, 0.95);
   --cultured: hsl(0, 0%, 2%);
   --white: hsl(0, 52%, 89%);
